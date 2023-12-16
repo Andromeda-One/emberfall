@@ -20,10 +20,10 @@ Each political party has its own color, symbol, and outline motif. Lords each ha
 - Continued outrage about [The Great Consolidation](./The%20Great%20Consolidation.md)
 - Main goal is to allow any states who still seek independence to gain that
 ### Central Party
-**Fire Orange | A kite-shaped shield | **
+**Fire Orange |  | Kite-shaped shield**
 - Pushes for more power to the people, the individual, and the lords
 ### Progress Party
-**Royal Purple | A hand pointing upward | **
+**Royal Purple | A hand pointing upward | Vertical oval**
 - Supporters of race and gender equality
 - Pushes for more power to the government, the high senate, and the crown
 ## Fringe Parties
@@ -31,6 +31,7 @@ These parties have very few representatives, and are generally not widely known.
 ### The Unblemished
 **Pale Blue | The face of a barn owl | Diamond**
 - Extremist party formed shortly after [King Oswald](./King%20Oswald.md) announced he'd be marrying an orc.
+- Believes in racial and national purity.
 ### The Whisperers
 ** |  | **
-- 
+- A guild of thieves?

@@ -12,3 +12,5 @@ Then you should look at this map!
 -insert map here :)-
 
 Now that you know every single thing there is to know about Emberfall, you can set out on your adventure! Or whatever you're here to do.
+
+**Everything in this repository is subject to change, and will (hopefully) be updated regularly.**

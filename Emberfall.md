@@ -7,13 +7,13 @@ tags:
 # Timeline
 This is written from the perspective of [King Oswald](./King%20Oswald.md).
 ## 42 A.C.
-[The Imperialists](./High%20Senate.md#imperialist-party) are bidding for the [High Senate](./High%20Senate.md) majority again. There is talk of further expansion. Was [Rowe](Rowe.md) not satisfied with all of the [Local Lands](./Local%20Lands.md)?
+[The Imperialists](./Interest%20Groups.md#imperialist-party) are bidding for the [High Senate](./High%20Senate.md) majority again. There is talk of further expansion. Was [Rowe](Rowe.md) not satisfied with all of the [Local Lands](./Local%20Lands.md)?
 ## 17 A.C.
 Father has stepped down, today I take his place as king of Emberfall.
 ## 14 A.C.
-My daughter was born today, but this is not a day of celebration. Reports tell of a growing extremist group known as the [Unblemished](./High%20Senate.md#the-unblemished), who would have my head for even looking at this beautiful child.
+My daughter was born today, but this is not a day of celebration. Reports tell of a growing extremist group known as the "[Unblemished](./Interest%20Groups.md#the-unblemished)", who would have my head for even looking at this beautiful child.
 ## 13 A.C.
-Today I am married to my beautiful wife, [Queen Lursha](./Queen%20Lursha.md).
+Today I am married to my beautiful wife, [Queen Lursha](./Queen%20Lursha.md). The public's reception of this decision has been quite mixed.
 ## 1 A.C.
 Father finally dealt with the spirits in [Wraithhold Woods](./Wraithhold%20Woods.md). Good riddance. It will be nice to ride through there again, I've missed that from when I was a boy.
 ## 0 A.C.

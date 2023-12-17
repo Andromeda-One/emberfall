@@ -1,5 +1,7 @@
 ---
 share: true
+tags:
+  - Meta
 ---
 
 # Welcome to Emberfall!

@@ -11,12 +11,12 @@ Each political party has its own color, symbol, and outline motif. Lords each ha
 **Bright Yellow | A lightning bolt | A fist**
 - Supports a more colonial model of punishment.
 - Pushes for expansion into other territories.
-- Held the high senate majority as [Emberfall](./Emberfall.md) in the period leading up to and during [The Great Consolidation](./The%20Great%20Consolidation.md).
+- Held the high senate majority as [Emberfall](./Emberfall.md) in the period leading up to and during [The Great Unification](./The%20Great%20Unification.md).
 - No clear position on race, gender, etc. Solely focused on the expansion and betterment of [Emberfall](./Emberfall.md).
 ## Separatist Party
 **Blood Red | Three connected arrows pointing outward | Triangle**
 - The main opposition party to the Imperialists
-- Continued outrage about [The Great Consolidation](./The%20Great%20Consolidation.md)
+- Continued outrage about [The Great Unification](./The%20Great%20Unification.md)
 - Main goal is to allow any states who still seek independence to gain that
 ## Central Party
 **Fire Orange | Sword pointing down | Kite-shaped shield**
@@ -29,7 +29,7 @@ Each political party has its own color, symbol, and outline motif. Lords each ha
 These parties have very few representatives, and are generally not widely known. Villages with representatives from these parties are rarely found even in remote areas.
 ## The Unblemished
 **Pale Blue | The face of a barn owl | Diamond**
-- Extremist party formed shortly after [King Oswald](./King%20Oswald.md) announced he'd be marrying an orc.
+- Extremist party formed shortly after [King Oswald Idris](./King%20Oswald%20Idris.md) announced he'd be marrying an orc.
 - Believes in racial and national purity.
 ## The Whisperers
 ** |  | **

@@ -9,10 +9,10 @@ tags:
 - [Emberfall](./Emberfall.md)
 - [High Senate](./High%20Senate.md)
 - [Towns and Cities](./Towns%20and%20Cities.md)
-- [The Great Consolidation](./The%20Great%20Consolidation.md)
+- [The Great Unification](./The%20Great%20Unification.md)
 ## People
-- [King Oswald](./King%20Oswald.md)
-- [Queen Lursha](./Queen%20Lursha.md)
+- [King Oswald Idris](./King%20Oswald%20Idris.md)
+- [Queen Lursha Idris](./Queen%20Lursha%20Idris.md)
 - [Jameson Rowe](./Jameson%20Rowe.md)
 - [Reginald](./Reginald.md)
 ## Locations
@@ -29,6 +29,9 @@ tags:
 - [Willowmere](./Willowmere.md)
 - [Tresdren](Tresdren.md)
 - [Pendley](./Pendley.md)
+- [Cesterfield](./Cesterfield.md)
+- [Squall's End](./Squall's%20End.md)
+- [Lewes](./Lewes.md)
 ### Natural
 - [Maw of Fa'Uch](./Maw%20of%20Fa'Uch.md)
 - [Lake Selûne](Lake%20Sel%C3%BBne.md)

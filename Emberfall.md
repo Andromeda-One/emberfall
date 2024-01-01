@@ -5,19 +5,19 @@ tags:
 ---
 
 # Timeline
-This is written from the perspective of [King Oswald](./King%20Oswald.md).
+This is written from the perspective of [King Oswald Idris](./King%20Oswald%20Idris.md).
 ## 42 A.C.
 [The Imperialists](./Political%20Parties.md#imperialist-party) are bidding for the [High Senate](./High%20Senate.md) majority again. There is talk of further expansion. Was [Rowe](./Jameson%20Rowe.md) not satisfied with all of the [Local Lands](./Local%20Lands.md)?
 ## 17 A.C.
 Father has stepped down, today I take his place as king of Emberfall.
 ## 14 A.C.
-My daughter was born today, but this is not a day of celebration. Reports tell of a growing extremist group known as the "[Unblemished](./Political%20Parties.md#the-unblemished)", who would have my head for even looking at this beautiful child.
+My daughter was born today, but our celebration is to be short-lived. Reports tell of a growing extremist group known as the "[Unblemished](./Political%20Parties.md#the-unblemished)", who would have my head for even looking at this beautiful child.
 ## 13 A.C.
-Today I am married to my beautiful wife, [Queen Lursha](./Queen%20Lursha.md). The public's reception of this decision has been quite mixed.
+Today I am married to my beautiful wife, [Queen Lursha Idris](./Queen%20Lursha%20Idris.md). The public's reception of this decision has been quite mixed.
 ## 1 A.C.
 Father finally dealt with the spirits in [Wraithhold Woods](./Wraithhold%20Woods.md). Good riddance. It will be nice to ride through there again, I've missed that from when I was a boy.
 ## 0 A.C.
-[The Great Consolidation](./The%20Great%20Consolidation.md) is complete. After three months of bloodshed, the hunger of [the Imperialists](./High%20Senate.md#imperialist-party) has finally been sated. All it's taken was several hundred lives and control over all corners of the [Local Lands](./Local%20Lands.md). I cannot believe my father is in support of this.
+[The Great Unification](./The%20Great%20Unification.md) is complete. After three months of bloodshed, the hunger of [the Imperialists](./High%20Senate.md#imperialist-party) has finally been sated. All it's taken was several hundred lives and control over all corners of the [Local Lands](./Local%20Lands.md). I cannot believe my father is in support of this.
 ## 21 B.C.
 I was born.
 ## ≈320 B.C.

@@ -5,6 +5,7 @@ tags:
 ---
 
 # Welcome to Emberfall!
+
 ## Information
 - [Emberfall](./Emberfall.md)
 - [High Senate](./High%20Senate.md)

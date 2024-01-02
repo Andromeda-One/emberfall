@@ -22,7 +22,7 @@ Each political party has its own color, symbol, and outline motif. Lords each ha
 **Fire Orange | Sword pointing down | Kite-shaped shield**
 - Pushes for more power to the people, the individual, and the lords
 ## Progress Party
-**Royal Purple | A hand pointing upward | Vertical oval**
+**Royal Purple | Wagon wheel | Circle**
 - Supporters of race and gender equality
 - Pushes for more power to the government, the high senate, and the crown
 # Fringe Parties
@@ -32,5 +32,6 @@ These parties have very few representatives, and are generally not widely known.
 - Extremist party formed shortly after [King Oswald Idris](./King%20Oswald%20Idris.md) announced he'd be marrying an orc.
 - Believes in racial and national purity.
 ## The Whisperers
-** |  | **
+**Dark Blue | Eyes | Will-o'-Wisp**
 - A guild of thieves?
+- Little is known about this group, they are officially registered as a party yet have never had a representative elected as a lord, or even had one run for that matter.

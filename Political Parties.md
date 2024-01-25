@@ -33,5 +33,5 @@ These parties have very few representatives, and are generally not widely known.
 - Believes in racial and national purity.
 ## The Whisperers
 **Dark Blue | Eyes | Will-o'-Wisp**
-- A guild of thieves?
+- A thriving merchant's guild
 - Little is known about this group, they are officially registered as a party yet have never had a representative elected as a lord, or even had one run for that matter.

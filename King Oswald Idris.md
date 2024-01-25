@@ -6,7 +6,7 @@ tags:
   - People
 ---
 
-Human, native to 
+Human, native to -----
 Married to [Queen Lursha Idris](./Queen%20Lursha%20Idris.md).
 Son of former King Reginald Idris
 

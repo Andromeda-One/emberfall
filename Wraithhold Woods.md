@@ -5,7 +5,7 @@ tags:
   - Location
 ---
 
-Woods on the Eastern coast of the [Motherland](./Motherland.md).
+Woods on the Eastern coast of [Emberfall](./Emberfall.md).
 A major battle took place here during [The Great Unification](./The%20Great%20Unification.md) where [Emberfall](./Emberfall.md) forces were ambushed, resulting in grievous losses on both sides. After the battle, these woods were haunted by the spirits of the fallen, giving it it's name.
 Once Emberfall was fully established, mages were sent to these woods to exorcise the spirits, which went relatively smoothly.
 

@@ -21,6 +21,6 @@ Father finally dealt with the spirits in [Wraithhold Woods](./Wraithhold%20Woods
 ## 21 B.C.
 I was born.
 ## ≈320 B.C.
-The [Frostspires](./Frostspires.md) appeared around this time. Apparently before the presence of the [Frostspires](./Frostspires.md) there, there was some "eternal blizzard" in the area, cause unknown. Similar to the transformation of [Mount Fa'Uch](./Maw%20of%20Fa'Uch.md), the books tell of a group of goliaths from [Frostholm](./Frostholm.md) venturing into a thick blizzard, however this group was never seen again, and shortly after their disappearance, the blizzard cleared to reveal the newly formed [Frostspires](./Frostspires.md).
+The [Frostspires](./Frostspires.md) appeared around this time. Apparently before the presence of the [Frostspires](./Frostspires.md) there, there was some "eternal blizzard" in the area, cause unknown. Similar to the transformation of [Mount Fa'Uch](./Maw%20of%20Fa'Uch.md), the books tell of a group of goliaths from [Uthai](./Uthai.md) venturing into a thick blizzard, however this group was never seen again, and shortly after their disappearance, the blizzard cleared to reveal the newly formed [Frostspires](./Frostspires.md).
 ## ≈400 B.C.
 The books say that dwarven mages ventured to the heart of [Mount Fa'Uch](./Maw%20of%20Fa'Uch.md) and slayed some beast of myth there, though they do not state the nature of the beast. My guess is that it was some great elemental, whose death subsequently caused the mountain to explode and become the volcano we can see there today.

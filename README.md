@@ -47,13 +47,18 @@ tags:
 - [Wraithhold Woods](./Wraithhold%20Woods.md)
 - [Frostspires](./Frostspires.md)
 - [Aboramare](./Aboramare.md)
-- [Darkhearst](Darkhearst.md)
 - [The Shattered Coast](./The%20Shattered%20Coast.md)
 ### Other
 - [The Watchtowers](./The%20Watchtowers.md)
 - [Sunfire](./Sunfire.md)
 ## Groups
 - [Political Parties](./Political%20Parties.md)
+	- [Imperialist Party](Imperialist%20Party.md)
+	- [Separatist Party](Separatist%20Party.md)
+	- [Centralist Party](Centralist%20Party.md)
+	- [Progress Party](Progress%20Party.md)
+	- [The Unblemished](The%20Unblemished.md)
+	- [The Whisperers](./The%20Whisperers.md)
 
 
 ---

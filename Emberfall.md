@@ -4,6 +4,7 @@ tags:
   - Emberfall
 ---
 
+
 # Timeline
 This is written from the perspective of [King Oswald Idris](./King%20Oswald%20Idris.md).
 ## 42 A.C.

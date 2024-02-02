@@ -28,10 +28,9 @@ Each political party has its own color, symbol, and outline motif. Lords each ha
 # Fringe Parties
 These parties have very few representatives, and are generally not widely known. Villages with representatives from these parties are rarely found even in remote areas.
 ## The Unblemished
-**Pale Blue | The face of a barn owl | Diamond**
 - Extremist party formed shortly after [King Oswald Idris](./King%20Oswald%20Idris.md) announced he'd be marrying an orc.
 - Believes in racial and national purity.
-## The Whisperers
+## [The Whisperers](./The%20Whisperers.md)
 **Dark Blue | Eyes | Will-o'-Wisp**
-- A thriving merchant's guild
+- A thriving merchant's guild that specializes in discretion and a distinct lack of a moral compass.
 - Little is known about this group, they are officially registered as a party yet have never had a representative elected as a lord, or even had one run for that matter.

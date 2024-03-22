@@ -4,7 +4,6 @@ tags:
   - Emberfall
   - Government
 ---
-
 Each political party has its own color, symbol, and outline motif. Lords each have a unique insignia that represents them, and denotes which party they represent. The current leadership of a settlement is displayed on banners hung around that settlement. Each settlement has a unique outer banner section that represents the settlement, and the insignia of the current lord is then placed in the center of the banners. The settlement section can be altered in a process similar to that of the lord elections.
 # Main Parties
 ## [Imperialist Party](./Imperialist%20Party.md)
@@ -15,16 +14,16 @@ Each political party has its own color, symbol, and outline motif. Lords each ha
 - No clear position on race, gender, etc. Solely focused on the expansion and betterment of [Emberfall](./Emberfall.md).
 ## [Separatist Party](./Separatist%20Party.md)
 **Blood Red | Three connected arrows pointing outward | Triangle**
-- The main opposition party to the Imperialists
-- Continued outrage about [The Great Unification](./The%20Great%20Unification.md)
-- Main goal is to allow any states who still seek independence to gain that
+- The main opposition party to the Imperialists.
+- Continued outrage about [The Great Unification](./The%20Great%20Unification.md).
+- Main goal is to allow any states who still seek independence to gain that.
 ## [Centralist Party](./Centralist%20Party.md)
 **Fire Orange | Sword pointing down | Kite-shaped shield**
-- Pushes for more power to the people, the individual, and the lords
+- Pushes for more power to the people, the individual, and the lords.
 ## [Progressivist Party](./Progressivist%20Party.md)
 **Royal Purple | Wagon wheel | Circle**
-- Supporters of race and gender equality
-- Pushes for more power to the government, the high senate, and the crown
+- Supporters of race and gender equality.
+- Pushes for more power to the government, the high senate, and the crown.
 # Fringe Parties
 These parties have very few representatives, and are generally not widely known. Villages with representatives from these parties are rarely found even in remote areas.
 ## [The Unblemished](./The%20Unblemished.md)
